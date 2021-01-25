@@ -27,7 +27,7 @@ export const About = () =>
                             from July - December 2021.
                         </p>
                         <p className="email-resume">
-                            Feel free to take a look at my <span><a className="resume-link" href = {pdf}>resume</a></span> or reach out to me via email at fahy.m@northeastern.edu
+                            Feel free to take a look at my <span><a className="resume-link" href = {pdf} target="_blank">resume </a></span> or <span><a className="resume-link" href = {'https://github.com/meghanfahy'} target="_blank">github </a></span> . You can reach out to me via email at fahy.m@northeastern.edu
                         </p>
                     </div>
                </div>
